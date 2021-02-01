@@ -431,7 +431,7 @@ h2 {
 
 #footer-wrapper {
   background: #070505;
-  padding: 3em;
+  padding: 3em 3em 1em;
 }
 .footer-primary {
   border-right: 1px solid #e7e7e7;
